@@ -4,4 +4,4 @@ En aquest projecte farem un arcade de naus
 
 # Sprites
 
-![Nau protagonista](nauprotagonista.png)
+![Nau protagonista](nauprincipal.png)
