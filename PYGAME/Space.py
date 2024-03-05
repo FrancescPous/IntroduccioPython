@@ -1,8 +1,8 @@
 # import the pygame module, so you can use it
 import pygame
 
-WIDTH = 320
-HIGH = 200
+WIDTH = 1280
+HIGH = 720
 LOGO_IMAGE = "assets/moon.png"
 CAPTION_TEXT = "My Space Game"
 # create a surface on screen that has the size of 640 x 480
