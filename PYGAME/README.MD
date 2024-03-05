@@ -8,3 +8,6 @@ En aquest projecte farem un arcade de naus
 
 ## FINESTRES
 [ocean](Ocean.py)
+[war](War.py)
+[space](Space.py)
+[zoo](Zoo.py)
