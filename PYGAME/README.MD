@@ -7,4 +7,4 @@ En aquest projecte farem un arcade de naus
 ![Nau protagonista](nauprincipal.png)
 
 ## FINESTRES
-[ocean](ocean.py)
+[ocean](Ocean.py)
