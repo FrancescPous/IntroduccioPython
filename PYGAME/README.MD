@@ -17,11 +17,11 @@ En aquest projecte farem un arcade de naus
 
 ## Finestres amb fons
 
-[ocean](Oceancolor.py)
+[ocean](Oceanfons.py)
 -
-[war](Warcolor.py)
+[war](Warfons.py)
 -
-[space](Spacecolor.py)
+[space](Spacefons.py)
 -
-[zoo](Zoocolor.py)
+[zoo](Zoofons.py)
 
