@@ -7,21 +7,21 @@ En aquest projecte farem un arcade de naus
 ![Nau protagonista](nauprincipal.png)
 
 ## FINESTRES
-[ocean](Ocean.py)
+[OCEAN](Ocean.py)
 -
-[war](War.py)
+[WAR](War.py)
 -
-[space](Space.py)
+[SPACE](Space.py)
 -
-[zoo](Zoo.py)
+[ZOO](Zoo.py)
 
 ## Finestres amb fons
 
-[ocean](Oceanfons.py)
+[OCEAN FONS](Oceanfons.py)
 -
-[war](Warfons.py)
+[WAR FONS](Warfons.py)
 -
-[space](Spacefons.py)
+[SPACE](Spacefons.py)
 -
-[zoo](Zoofons.py)
+[ZOO FONS](Zoofons.py)
 
