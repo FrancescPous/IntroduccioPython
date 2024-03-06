@@ -1,5 +1,5 @@
 # import the pygame module, so you can use it
-import pygame
+import pygame, sys
 
 WIDTH = 1280
 HIGH = 720
@@ -7,6 +7,7 @@ LOGO_IMAGE = "assets/moon.png"
 CAPTION_TEXT = "My Space Game"
 # create a surface on screen that has the size of 640 x 480
 screen = pygame.display.set_mode((WIDTH, HIGH))
+
 
 # define a main function
 def main():
@@ -23,16 +24,12 @@ def main():
     # main loop
     while running:
         # background set to BLACK
-        screen.fill((155,155,155))
+        screen.fill((155, 155, 155))
         # draw the screen
         pygame.display.flip()
-    # poll for events
-    # pygame.QUIT event means the user clicked X to close your window
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            running = False
-# run the main function only if this module is executed as the main script
-# (if you import this as a module then nothing is executed)
-if __name__ == "__main__":
-    # call the main function
-    main()
+        # poll for events
+        # pygame.QUIT event means the user clicked X to close your window
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                running = False
+                sys.exit()
