@@ -21,7 +21,7 @@ En aquest projecte farem un arcade de naus
 -
 [WAR FONS](Warfons.py)
 -
-[SPACE](Spacefons.py)
+[SPACE FONS](Spacefons.py)
 -
 [ZOO FONS](Zoofons.py)
 
