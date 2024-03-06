@@ -23,7 +23,7 @@ def main():
     # main loop
     while running:
         # background set to BLACK
-        screen.fill((255,255, 0))
+        screen.fill((75,83,32))
         # draw the screen
         pygame.display.flip()
     # poll for events
