@@ -25,3 +25,7 @@ En aquest projecte farem un arcade de naus
 -
 [ZOO FONS](Zoofons.py)
 
+
+## DIBUIXAR FORMES PYGAME
+
+[LLETRA P](lletra.py)
