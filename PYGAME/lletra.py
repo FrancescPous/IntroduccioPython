@@ -10,7 +10,7 @@ BLANC = (255,255,255)
 
 pygame.init()
 pantalla = pygame.display.set_mode(TAMANY)
-pygame.display.set_caption('Rectangle')
+pygame.display.set_caption('P de Pit i Pous')
 while True: # main game loop
     for event in pygame.event.get():
         if event.type == QUIT:
