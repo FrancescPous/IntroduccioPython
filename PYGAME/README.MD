@@ -24,10 +24,11 @@ En aquest projecte farem un arcade de naus
 [SPACE FONS](Spacefons.py)
 -
 [ZOO FONS](Zoofons.py)
-
+-
+-
 
 ## DIBUIXAR FORMES PYGAME
-
+-
 [LLETRA P](lletra.py)
-
+-
 [ESCALA ARC DE SANT MARTÍ](ArcDeSantMartí.py)
